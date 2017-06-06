@@ -1,0 +1,19 @@
+{
+    "name": "ldtech/alipay-sdk-php",
+    "description": "The Alipay SDK composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kuangjy2",
+            "email": "kuangjy@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ldtech\\Alipay\\": "src/"
+        }
+    }
+}

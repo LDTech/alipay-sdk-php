@@ -7,8 +7,9 @@
  * Date: 16/3/30
  * Time: 下午3:25
  */
+
 namespace Ldtech\Alipay;
- 
+
 class AopEncrypt
 {
 

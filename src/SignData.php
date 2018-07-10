@@ -5,13 +5,14 @@
  * Date: 15/5/2
  * Time: 下午6:21
  */
+
 namespace Ldtech\Alipay;
- 
-class SignData {
 
-    public $signSourceData=null;
+class SignData
+{
 
+    public $signSourceData = null;
 
-    public $sign=null;
+    public $sign = null;
 
 } 
